@@ -1,2 +1,2 @@
 # AndroidDevelopment
-第一次作业：第一次作业.png截图，包含前4个lab的徽章截图
+第一次作业提交：lab01文件夹内包含前4个lab的徽章截图
